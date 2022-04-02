@@ -5,14 +5,14 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'LUFFY-fUSDT',
+    lpSymbol: 'DEMENTOR-fUSDT',
     lpAddresses: {
-      250: '0xd2292fF8De4946173Ea70687c5d978226Dc7F3B8',
+      250: '',
       97: '',
     },
-    tokenSymbol: 'LUFFY',
+    tokenSymbol: 'DEMENTOR',
     tokenAddresses: {
-      250: '0x0f274e0F1C43C400a88A2CFeB099360336383Ce4',
+      250: '',
       97: '',
     },
     quoteTokenSymbol: QuoteToken.USDT,
@@ -21,14 +21,14 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'LUFFY-WFTM',
+    lpSymbol: 'DEMENTOR-WFTM',
     lpAddresses: {
-      250: '0x1Cc67f6512D6aFef1b15Bbb4D9bDf07bB305741c',
+      250: '',
       97: '',
     },
-    tokenSymbol: 'LUFFY',
+    tokenSymbol: 'DEMENTOR',
     tokenAddresses: {
-      250: '0x0f274e0F1C43C400a88A2CFeB099360336383Ce4',
+      250: '',
       97: '',
     },
     quoteTokenSymbol: QuoteToken.WFTM,
@@ -135,12 +135,12 @@ const farms: FarmConfig[] = [
     pid: 8,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'LUFFY',
+    lpSymbol: 'DEMENTOR',
     lpAddresses: {
       250: '0xd2292fF8De4946173Ea70687c5d978226Dc7F3B8',
-      97: '', // LUFFY-USDT LP
+      97: '', // DEMENTOR-USDT LP
     },
-    tokenSymbol: 'LUFFY',
+    tokenSymbol: 'DEMENTOR',
     tokenAddresses: {
       250: '0x0f274e0F1C43C400a88A2CFeB099360336383Ce4',
       97: '',
