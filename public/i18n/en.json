@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total LUFFY burned since launch"
+        "text": "Total DEMENTOR burned since launch"
       }
     },
     {
@@ -129,7 +129,7 @@
     {
       "data": {
         "stringId": 322,
-        "text": "Stake LUFFY, get SYRUP."
+        "text": "Stake DEMENTOR, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake LUFFY tokens, the contract will automatically harvest LUFFY rewards for you!"
+        "text": "Every time you stake and unstake DEMENTOR tokens, the contract will automatically harvest DEMENTOR rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Luffy price"
+        "text": "Dementor price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 LUFFY = 1 SYRUP"
+        "text": "1 DEMENTOR = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of Luffy block emissions each day (10 Luffy per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of Dementor block emissions each day (10 Dementor per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% Luffy"
+        "text": "%num% Dementor"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend Luffy to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend Dementor to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% Luffy Available"
+        "text": "%num% Dementor Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 Luffy"
+        "text": "Your amount must be a multiple of 10 Dementor"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 Luffy"
+        "text": "1 Ticket = 10 Dementor"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your Luffy cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your Dementor cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "Luffy prizes to be claimed"
+        "text": "Dementor prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve Luffy"
+        "text": "Approve Dementor"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of Luffy block emissions each day (10 Luffy per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of Dementor block emissions each day (10 Dementor per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using Luffy-BNB LP tokens, which means you need to stake equal amounts of Luffy and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using Dementor-BNB LP tokens, which means you need to stake equal amounts of Dementor and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get Luffy-BNB LP >"
+        "text": "Get Dementor-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, One Piece Finance burns the Luffy."
+        "text": "The project gets the BNB, One Piece Finance burns the Dementor."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Luffy Stats"
+        "text": "Dementor Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New Luffy\/block"
+        "text": "New Dementor\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "Luffy to Harvest"
+        "text": "Dementor to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "Luffy in Wallet"
+        "text": "Dementor in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting Luffy"
+        "text": "Collecting Dementor"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "Luffy to Collect"
+        "text": "Dementor to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake Luffy to earn new tokens."
+        "text": "Stake Dementor to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "Luffy to burn (USD)"
+        "text": "Dementor to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest Luffy rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest Dementor rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy Luffy and BNB tokens"
+        "text": "Buy Dementor and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get Luffy-BNB LP tokens by adding Luffy and BNB liquidity"
+        "text": "Get Dementor-BNB LP tokens by adding Dementor and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your Luffy-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your Dementor-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for Luffy, or keep for your collection!"
+        "text": "Trade in for Dementor, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive Luffy, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive Dementor, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a Luffy value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a Dementor value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for Luffy"
+        "text": "Trade in for Dementor"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn Luffy"
+        "text": "Stake LP tokens to earn Dementor"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The Luffy Lottery"
+        "text": "The Dementor Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with Luffy"
+        "text": "Buy tickets with Dementor"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback Luffy"
+        "text": "Deposit Fee will be used to buyback Dementor"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn Luffy"
+        "text": "Stake tokens to earn Dementor"
       }
     },
     {
